@@ -2,6 +2,7 @@ import "./App.css";
 import Counter from "./Counter";
 import Friends from "./Friends";
 import Users from "./Users";
+import Counter2 from "./Counter2";
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
       <Users></Users>
 
       <Counter></Counter>
+
+      <Counter2></Counter2>
     </>
   );
 }
